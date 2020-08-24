@@ -61,5 +61,15 @@ To be finished...
 |GANs|1|
 |transfer learning|1|
 
-
 ![avatar](pic/KDD2020-topic.png)
+
+## Tutorials and papers
+
+1.[*Adversarial Attacks and Defenses:* Frontiers, Advances and Practice]
+
+[tutorial website](https://sites.google.com/view/kdd-2020-attack-and-defense/)
+
+[tutorial slide](https://drive.google.com/file/d/1Byc7JRI7KRmHLBeYM4zjPdRCCtLWHYI0/view)
+
+
+
