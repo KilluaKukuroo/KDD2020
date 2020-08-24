@@ -8,6 +8,12 @@
 
 
 
+[2012-ACM SIGKDD 数据挖掘及知识发现会议]
+
+清华的王建勇教授介绍了KDD的概况，投稿历史，会议主题等，并且介绍了2012在北京举办的KDD 2012的情况。
+
+
+
 ## KDD 2020
 **summary**: <br>
 - Total num, research track, and application track of paper in KDD 2020 is :  **338 217 121 **; 
