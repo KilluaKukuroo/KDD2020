@@ -175,16 +175,15 @@ Xin Huang, Sahara Ali, [Sanjay Purushotham](https://informationsystems.umbc.edu/
 ## Generate word_cloud based on paper keyword statistics
 
 problem: 
-- 很多专业名词(e.g., Adversarial Network, neural network)被分开成为两个词语
-，不符合实际情况；<br>
-- 大小写，单复数应该要不敏感;<br>
+- Many special keyword (e.g., Adversarial Network, neural network) are divided into two or more single word, which contradicts with the true situation;
+- Case, singular and plural should not be sensitive;<br>
 <img src="pic/KDD2020-keyword.png" alt="avatar" style="zoom:150%;" />
 
 ## Classify papers by topics
 
 problem：
-- 自动找出一堆标题、摘要中出现次数很多的主题：主题发现；（手工定义容易遗漏，需要领域知识）
-- 自动将类似主题聚类合并；
+- Should be able to automatically find important topics in the title and abstract; (Human-crafted topics need domain knowledge, easy to omit topics, bad generalization ability)
+- Should be able to cluster similar topics to form one keyword;
 
 
 To be finished...
