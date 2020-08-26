@@ -24,6 +24,33 @@ An introduction about the history of KDD, the topic of KDD, and the general issu
 
 
 
+### SIGKDD Dissertation Award 
+
+**Dissertation Award Running Up**: [Jingbo Shang](https://shangjingbo1226.github.io/), Assistant professor in UCSD, PHD from UIUC with Prof.Jiawei Han; 
+
+In the speech, Prof.Shang introduced hsi work during PhD study about automatic learning from text: **turning upstructed data into structured knowledge**; 
+
+<img src="pic/autonet.png" alt="avatar" style="zoom:50%;" />
+
+**QA**:
+
+**1)How to improve our research taste? How to choose a good topic?**
+
+I focused on three parts: *real problem; real data; real solution*. 
+
+**If an algorithm is very specific, if we release some condition, the method will not work that well. So we have the chance to improve.**For example, for my PHD study, supervised learning on text is well studied, but i move to unsupervised learning, to form my phd thesis.
+
+**2)What is your future research interest?**
+
+two things, 
+
+- week supervision. Utilize huge amount of unlabelled data;
+- How to combine sturcture and unstructured data;
+
+**Dissertation Award**: [Rediet Abebe](https://www.cs.cornell.edu/~red/), Assistant Professor in UC Berkeley, PHD from Cornell University;
+
+![avatar](pic/abebe.png)
+
 
 
 ### Test of time award - research
