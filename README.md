@@ -1,6 +1,9 @@
 # KDD-2020 statistical information: papers,awards,workshops
 
+![avatar](pic/KDD2020.jpg)
+
 ## NOTE
+
 This repo is based on the KDD 2020 official website, to summarize the following aspects, for myself and everyone to quickly get the whole idea of this conference.
 
 - the key words of accepted papers
@@ -9,20 +12,19 @@ This repo is based on the KDD 2020 official website, to summarize the following 
 - KDD awards 
 - KDD workshop, tutorial
 
-
-
-[2012-ACM SIGKDD 数据挖掘及知识发现会议]
-
-An introduction about the history of KDD, the topic of KDD, and the general issue about the 2012 KDD conference to be held in Beijing, China, by Prof. Jiangyong Wang from Tsinghua University.
-
-## KDD 2020
 ## **summary**: <br>
 
 - Total num (RT+ADS), Research Track, and Applied Data Science (ADS) track of paper in KDD 2020 is :  **338 217 121 **; 
 - Total number of submission: **2035** (the highest in history,over 13% more than the second highest one)
 - Research track(long paper): 1279 submition, 216 accepted, **216 / 1279 = 16.9%**; 
+- **Conference schedule**: [Click here](https://www.kdd.org/kdd2020/schedule)
+- KDD recent 7 years submission and recept data:
 
+<img src="pic/kdd-history.png" alt="avatar" style="zoom: 67%;" />
 
+[2012-ACM SIGKDD 数据挖掘及知识发现会议]
+
+An introduction about the history of KDD, the topic of KDD, and the general issue about the 2012 KDD conference to be held in Beijing, China, by Prof. Jiangyong Wang from Tsinghua University.
 
 ### SIGKDD Dissertation Award 
 
@@ -59,7 +61,7 @@ two things,
 
 ### Test of time award - applied data science
 
-[AenetMiner: Extraction and Mining ]
+[AnetMiner: Extraction and Mining ]
 
 
 
@@ -79,7 +81,7 @@ Mike Zeller, Head of AI strategy and solutions , Temask
 
 ## Some interesting activity in the conference (Lectural Tutorial, workshop, research paper)
 
-**Conference schedule**: [Click here](https://www.kdd.org/kdd2020/schedule)
+
 
 ### 1. Lecture-style Tutorial: Adversarial Attacks and Defenses: Frontiers, Advances and Practice
 
